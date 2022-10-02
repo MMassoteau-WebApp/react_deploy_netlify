@@ -1,25 +1,53 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Routes, Route, useLocation } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import {
+	Accueil,
+	Business,
+	Contact,
+	Ecoles,
+	Formations,
+	Magnetic,
+	Boost,
+	Revelation,
+	Shine,
+	Error,
+	Test,
+} from "./pages";
+
+import { AnimatePresence } from "framer-motion";
+
+import { Navbar, Footer } from "./components";
+
+const App = () => {
+	const location = useLocation();
+	return (
+		<div className="">
+			<Navbar />
+			<AnimatePresence>
+				<Routes location={location} key={location.pathname}>
+					<Route path="/" element={<Accueil />} />
+
+					<Route path="/formations" element={<Formations />} />
+					<Route path="/formations/revelation" element={<Revelation />} />
+					<Route path="/formations/boost" element={<Boost />} />
+					<Route path="/formations/shine" element={<Shine />} />
+
+					<Route path="/magnetic" element={<Magnetic />} />
+
+					<Route path="/business" element={<Business />} />
+
+					<Route path="/ecoles" element={<Ecoles />} />
+
+					<Route path="/contact" element={<Contact />} />
+					<Route path="/test" element={<Test />} />
+
+					<Route path="/*" element={<Error />} />
+				</Routes>
+			</AnimatePresence>
+			<Footer />
+		</div>
+	);
+};
 
 export default App;

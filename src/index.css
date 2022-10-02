@@ -1,13 +1,112 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+* {
+margin: 0;
+padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.blue-glassmorphism {
+ background: rgb(207,146,163);
+background: linear-gradient(90deg, rgba(207,146,163,0.5886729691876751) 10%, rgba(247,221,208,0.8127626050420168) 90%);
 }
+
+.gradient-beaute-entre-nous {
+background: rgb(149,82,87);
+background: linear-gradient(90deg, rgba(149,82,87,1) 6%, rgba(195,120,100,1) 59%, rgba(196,142,117,1) 84%);
+}
+
+.gradient-bg-footer {
+  background-color: #0f0e13;
+  background-image: 
+    radial-gradient(at 0% 100%, hsla(253,16%,7%,1) 0, transparent 53%), 
+    radial-gradient(at 50% 150%, rgb(61, 21, 54) 0, transparent 50%);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+   
+    @font-face {
+    font-family: "marisa";
+    src: url("../public/Typo/Marisa.otf");
+    }
+    @font-face {
+    font-family: "modernline";
+    src: url("../public/Typo/modernline.otf");
+    }
+    @font-face {
+    font-family: "marisa";
+    font-style: medium;
+    src: url("../public/Typo/Marisa-Medium.otf");
+    }
+    @font-face {
+    font-family: "marisa";
+    font-style: light;
+    src: url("../public/Typo/Marisa-Light.otf");
+    }
+    @font-face {
+    font-family: "marisa";
+    font-style: bold;
+    src: url("../public/Typo/Marisa-Bold.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: bold-italic;
+    src: url("../public/Typo/Gill\ Sans\ Bold\ Italic.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: bold;
+    src: url("../public/Typo/Gill\ Sans\ Bold.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: heavy-italic;
+    src: url("../public/Typo/Gill\ Sans\ Heavy\ Italic.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: heavy;
+    src: url("../public/Typo/Gill\ Sans\ Heavy.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: italic;
+    src: url("../public/Typo/Gill\ Sans\ Italic.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: light-italic;
+    src: url("../public/Typo/Gill\ Sans\ Light\ Italic.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: light;
+    src: url("../public/Typo/Gill\ Sans\ Light.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: medium-italic;
+    src: url("../public/Typo/Gill\ Sans\ Medium\ Italic.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: medium;
+    src: url("../public/Typo/Gill\ Sans\ Medium.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    src: url("../public/Typo/Gill\ Sans.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: condensed-bold;
+    src: url("../public/Typo/GillSans\ Condensed\ Bold.otf");
+    }
+    @font-face {
+    font-family: "gill";
+    font-style: condensed;
+    src: url("../public/Typo/GillSans\ Condensed.otf");
+    }
+    
