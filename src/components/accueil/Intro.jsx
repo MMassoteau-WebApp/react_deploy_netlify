@@ -11,15 +11,20 @@ import {
 	staggerTextContainer,
 } from "../../variants";
 
+import hero1 from "../../images/hero1.jpeg";
+import logo1 from "../../images/LOGO_1-BLANC.png";
+import lisa from "../../images/lisa.jpeg";
+import marque44 from "../../images/marque44.png";
+
 const Intro = () => {
-	const hero1 =
-		"https://drive.google.com/uc?export=view&id=1DNpSiy2vgCB_qs-c0Q9i0XCvnlo0IXRT";
-	const logo1 =
-		"https://drive.google.com/uc?export=view&id=1Ot8m-bHPLeqRiqgTddn24NVB_i9WskZX";
-	const lisa =
-		"https://drive.google.com/uc?export=view&id=11VYfRMaDzKDDQjMyoq2oHNjCsN7e8ycm";
-	const marque44 =
-		"https://drive.google.com/uc?export=view&id=1_8Ikyfv7-QDtmgSI5PscLnmQLJH9A6bg";
+	// const hero1 =
+	// 	"https://drive.google.com/uc?export=view&id=1DNpSiy2vgCB_qs-c0Q9i0XCvnlo0IXRT";
+	// const logo1 =
+	// 	"https://drive.google.com/uc?export=view&id=1Ot8m-bHPLeqRiqgTddn24NVB_i9WskZX";
+	// const lisa =
+	// 	"https://drive.google.com/uc?export=view&id=11VYfRMaDzKDDQjMyoq2oHNjCsN7e8ycm";
+	// const marque44 =
+	// 	"https://drive.google.com/uc?export=view&id=1_8Ikyfv7-QDtmgSI5PscLnmQLJH9A6bg";
 
 	const ref = useRef(null);
 

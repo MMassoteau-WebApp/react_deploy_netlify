@@ -6,23 +6,32 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
+import revelationHero from "../images/revelationHero.jpeg";
+import model28 from "../images/model28.jpeg";
+import model31 from "../images/model31.jpeg";
+import photo7 from "../images/photo7.jpeg";
+import icone11 from "../images/icone11.png";
+import icone7 from "../images/icone7.png";
+import icone2 from "../images/icone2.png";
+import icone16 from "../images/icone16.png";
+
 const Revelation = () => {
-	const revelationHero =
-		"https://drive.google.com/uc?export=view&id=1p54aqzSBzCr1A768vlOBm5oa9ti3ASkl";
-	const model28 =
-		"https://drive.google.com/uc?export=view&id=1meEWjSUDH62w8ZSvVurT6fs_FF_vh8tQ";
-	const model31 =
-		"https://drive.google.com/uc?export=view&id=19Es1SENwuoa4iq4ltFmWdqht-RAedkQk";
-	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1eRvKu_L2xHXszH_5zy0I391JDkq59FEr";
-	const icone11 =
-		"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
-	const icone7 =
-		"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
-	const icone2 =
-		"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
-	const icone16 =
-		"https://drive.google.com/uc?export=view&id=1gtjm_Ls-v5NfMNGz0ckrrln_zQeDAoWC";
+	// const revelationHero =
+	// 	"https://drive.google.com/uc?export=view&id=1p54aqzSBzCr1A768vlOBm5oa9ti3ASkl";
+	// const model28 =
+	// 	"https://drive.google.com/uc?export=view&id=1meEWjSUDH62w8ZSvVurT6fs_FF_vh8tQ";
+	// const model31 =
+	// 	"https://drive.google.com/uc?export=view&id=19Es1SENwuoa4iq4ltFmWdqht-RAedkQk";
+	// const photo7 =
+	// 	"https://drive.google.com/uc?export=view&id=1eRvKu_L2xHXszH_5zy0I391JDkq59FEr";
+	// const icone11 =
+	// 	"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
+	// const icone7 =
+	// 	"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
+	// const icone2 =
+	// 	"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
+	// const icone16 =
+	// 	"https://drive.google.com/uc?export=view&id=1gtjm_Ls-v5NfMNGz0ckrrln_zQeDAoWC";
 	const ref = useRef(null);
 
 	const handleClick = () => {

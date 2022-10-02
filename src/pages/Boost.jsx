@@ -6,23 +6,34 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
+//import images
+
+import makeuptonbusiness from "../images/makeuptonbusiness.jpeg";
+import model48 from "../images/model48.jpeg";
+import lisa6 from "../images/lisa6.jpeg";
+import choixmultiple from "../images/choixmultiple.png";
+import photo7 from "../images/photo7.jpeg";
+import icone2 from "../images/icone2.png";
+import icone7 from "../images/icone7.png";
+import icone11 from "../images/icone11.png";
+
 const Boost = () => {
-	const makeuptonbusiness =
-		"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
-	const model48 =
-		"https://drive.google.com/uc?export=view&id=1za_0foy2lV1l0YMWsBBSpzeqA_ifBZPN";
-	const lisa6 =
-		"https://drive.google.com/uc?export=view&id=1Tss-J42yS83DHFS9KXAQJdBW-cbU5Aor";
-	const choixmultiple =
-		"https://drive.google.com/uc?export=view&id=134i1_ShMYjlOXxEy4pF2TNamIPUQPR_D";
-	const photo7 =
-		"https://drive.google.com/uc?export=view&id=123wk-ctXoVesByuzdGL1sIoenFm7OtUY";
-	const icone2 =
-		"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
-	const icone7 =
-		"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
-	const icone11 =
-		"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
+	// const makeuptonbusiness =
+	// 	"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
+	// const model48 =
+	// 	"https://drive.google.com/uc?export=view&id=1za_0foy2lV1l0YMWsBBSpzeqA_ifBZPN";
+	// const lisa6 =
+	// 	"https://drive.google.com/uc?export=view&id=1Tss-J42yS83DHFS9KXAQJdBW-cbU5Aor";
+	// const choixmultiple =
+	// 	"https://drive.google.com/uc?export=view&id=134i1_ShMYjlOXxEy4pF2TNamIPUQPR_D";
+	// const photo7 =
+	// 	"https://drive.google.com/uc?export=view&id=123wk-ctXoVesByuzdGL1sIoenFm7OtUY";
+	// const icone2 =
+	// 	"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
+	// const icone7 =
+	// 	"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
+	// const icone11 =
+	// 	"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
 
 	const ref = useRef(null);
 

@@ -2,9 +2,12 @@ import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
 
+//import images
+import logoSecondaire14 from "../../images/logoSecondaire14.png";
+
 const Intouch = () => {
-	const logoSecondaire14 =
-		"https://drive.google.com/uc?export=view&id=1-iblsluCbkU5DWCCQdghIr5lzAU819fC";
+	// const logoSecondaire14 =
+	// 	"https://drive.google.com/uc?export=view&id=1-iblsluCbkU5DWCCQdghIr5lzAU819fC";
 
 	const form = useRef();
 	const [showModal, setShowModal] = useState(false);

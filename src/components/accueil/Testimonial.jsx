@@ -5,13 +5,18 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, staggerTextContainer } from "../../variants";
 
+//import image
+import tiphaine from "../../images/Tiphaine.jpeg";
+import fanny from "../../images/Fanny.jpeg";
+import camille from "../../images/Camille.jpeg";
+
 const Testimonial = () => {
-	const tiphaine =
-		"https://drive.google.com/uc?export=view&id=1tabuQfJGt1DLogRhu_Q97YkzNVMwLQsI";
-	const fanny =
-		"https://drive.google.com/uc?export=view&id=1lVgq71qSEEz0dmjn9z6xeNuQMShhhQOT";
-	const camille =
-		"https://drive.google.com/uc?export=view&id=15UXw6uW90mPeVZc3uSftH6cGnfNsiNHe";
+	// const tiphaine =
+	// 	"https://drive.google.com/uc?export=view&id=1tabuQfJGt1DLogRhu_Q97YkzNVMwLQsI";
+	// const fanny =
+	// 	"https://drive.google.com/uc?export=view&id=1lVgq71qSEEz0dmjn9z6xeNuQMShhhQOT";
+	// const camille =
+	// 	"https://drive.google.com/uc?export=view&id=15UXw6uW90mPeVZc3uSftH6cGnfNsiNHe";
 	return (
 		<motion.div
 			className="container my-24 px-6 mx-auto"
@@ -36,7 +41,7 @@ const Testimonial = () => {
 							<div className="flex justify-center mb-6">
 								<img
 									src={tiphaine}
-									className="rounded-full shadow-lg w-32"
+									className="rounded-full shadow-lg w-32 h-32"
 									alt="Tiphaine"
 								/>
 							</div>
@@ -167,7 +172,7 @@ const Testimonial = () => {
 							<div className="flex justify-center mb-6">
 								<img
 									src={fanny}
-									className="rounded-full shadow-lg w-32"
+									className="rounded-full shadow-lg w-32 h-32"
 									alt="Fanny"
 								/>
 							</div>
@@ -299,7 +304,7 @@ const Testimonial = () => {
 							<div className="flex justify-center mb-6">
 								<img
 									src={camille}
-									className="rounded-full object-cover shadow-lg w-32"
+									className="rounded-full object-cover shadow-lg w-32 h-32"
 									alt="camille"
 								/>
 							</div>

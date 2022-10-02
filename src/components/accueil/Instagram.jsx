@@ -5,19 +5,27 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, staggerTextContainer } from "../../variants";
 
+//import images
+import lisa33 from "../../images/lisa33.jpeg";
+import model41 from "../../images/model41.jpeg";
+import produit23 from "../../images/produit23.jpeg";
+import lisa29 from "../../images/lisa29.jpeg";
+import lisa19 from "../../images/lisa19.jpeg";
+import model51 from "../../images/model51.jpeg";
+
 const Instagram = () => {
-	const lisa33 =
-		"https://drive.google.com/uc?export=view&id=1AQwxUVGMVppftYZa-xx_FiZRHFNgrFFp";
-	const model41 =
-		"https://drive.google.com/uc?export=view&id=1ew_5PTVlcuT61tfwct3F39l2h3--jRcn";
-	const produit23 =
-		"https://drive.google.com/uc?export=view&id=1rK99ukFTYLLBjKTxWSTPhGq9gcmmCDoO";
-	const lisa29 =
-		"https://drive.google.com/uc?export=view&id=1MCKjxDXVwreGyoOvNcLVLw3CEUlCtSc-";
-	const lisa19 =
-		"https://drive.google.com/uc?export=view&id=1eTZ3KOP_96FskQlOKcIqdG_WfOIzuq7x";
-	const model51 =
-		"https://drive.google.com/uc?export=view&id=1nP1sPS2L_jT98jT6v7lcuVYIS9KTcQ3z";
+	// const lisa33 =
+	// 	"https://drive.google.com/uc?export=view&id=1AQwxUVGMVppftYZa-xx_FiZRHFNgrFFp";
+	// const model41 =
+	// 	"https://drive.google.com/uc?export=view&id=1ew_5PTVlcuT61tfwct3F39l2h3--jRcn";
+	// const produit23 =
+	// 	"https://drive.google.com/uc?export=view&id=1rK99ukFTYLLBjKTxWSTPhGq9gcmmCDoO";
+	// const lisa29 =
+	// 	"https://drive.google.com/uc?export=view&id=1MCKjxDXVwreGyoOvNcLVLw3CEUlCtSc-";
+	// const lisa19 =
+	// 	"https://drive.google.com/uc?export=view&id=1eTZ3KOP_96FskQlOKcIqdG_WfOIzuq7x";
+	// const model51 =
+	// 	"https://drive.google.com/uc?export=view&id=1nP1sPS2L_jT98jT6v7lcuVYIS9KTcQ3z";
 
 	return (
 		<motion.div

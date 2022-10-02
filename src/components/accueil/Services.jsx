@@ -6,13 +6,17 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, staggerTextContainer } from "../../variants";
 
+import icone2 from "../../images/icone2.png";
+import icone11 from "../../images/icone11.png";
+import icone7 from "../../images/icone7.png";
+
 const Services = () => {
-	const icone2 =
-		"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
-	const icone11 =
-		"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
-	const icone7 =
-		"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
+	// const icone2 =
+	// 	"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
+	// const icone11 =
+	// 	"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
+	// const icone7 =
+	// 	"https://drive.google.com/uc?export=view&id=11SBfl-EoTRYROiedU7yYEp4JyyVnvKP0";
 
 	return (
 		<>

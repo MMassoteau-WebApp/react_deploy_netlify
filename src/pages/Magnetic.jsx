@@ -6,15 +6,20 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
+import magneticMakeUp from "../images/magneticMakeUp.jpeg";
+import model32 from "../images/model32.jpeg";
+import lisa4 from "../images/lisa4.jpeg";
+import lisa10 from "../images/lisa10.jpeg";
+
 const Magnetic = () => {
-	const magneticMakeUp =
-		"https://drive.google.com/uc?export=view&id=1b9FmOkDJjXWRXIgNHZYQKCF5HSsHA4QM";
-	const model32 =
-		"https://drive.google.com/uc?export=view&id=1DQStPvqneM7n-ZDQG21kIJleb1hxfL-u";
-	const lisa4 =
-		"https://drive.google.com/uc?export=view&id=17oqc6Zy5c-giirDNv93ydakc_rWrEPN4";
-	const lisa10 =
-		"https://drive.google.com/uc?export=view&id=1fm5H-gT7Uc7JeJAitBRKdYjQGYzWOYuz";
+	// const magneticMakeUp =
+	// 	"https://drive.google.com/uc?export=view&id=1b9FmOkDJjXWRXIgNHZYQKCF5HSsHA4QM";
+	// const model32 =
+	// 	"https://drive.google.com/uc?export=view&id=1DQStPvqneM7n-ZDQG21kIJleb1hxfL-u";
+	// const lisa4 =
+	// 	"https://drive.google.com/uc?export=view&id=17oqc6Zy5c-giirDNv93ydakc_rWrEPN4";
+	// const lisa10 =
+	// 	"https://drive.google.com/uc?export=view&id=1fm5H-gT7Uc7JeJAitBRKdYjQGYzWOYuz";
 
 	const ref = useRef(null);
 

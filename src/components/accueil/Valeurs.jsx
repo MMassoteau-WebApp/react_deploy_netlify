@@ -5,12 +5,11 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInLeft, fadeInRight, staggerTextContainer } from "../../variants";
 
-// import forme25 from "../../assets/visualElement/formes/forme25.png";
-// import forme26 from "../../assets/visualElement/formes/forme26.png";
+import valeur from "../../images/valeur.png";
 
 const Valeurs = () => {
-	const valeur =
-		"https://drive.google.com/uc?export=view&id=1FUKHQOc4uyW7RO_uf05CjE7OnDdvNo3V";
+	// const valeur =
+	// 	"https://drive.google.com/uc?export=view&id=1FUKHQOc4uyW7RO_uf05CjE7OnDdvNo3V";
 	return (
 		<motion.div
 			className="relative h-full pb-16 bg-coquilledoeuf"

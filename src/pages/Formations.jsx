@@ -7,22 +7,31 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 import { Link } from "react-router-dom";
 
-const Formations = () => {
-	const photo2 =
-		"https://drive.google.com/uc?export=view&id=1bqBAsSPyobkPNTAy3pif8156eb7cTbsm";
-	const photo3 =
-		"https://drive.google.com/uc?export=view&id=1lTfWd1FW5u8nacg65ABm8U4qMNf52ko2";
-	const photo4 =
-		"https://drive.google.com/uc?export=view&id=1iLMaElPJzY85icUkLKYiaqNB80DwfN0B";
-	const photo8 =
-		"https://drive.google.com/uc?export=view&id=1-HfAupB7rC3py0mrsMUtt0ZYchdQWz0c";
+//import images
+import photo2 from "../images/photo2.jpeg";
+import photo3 from "../images/photo3.jpeg";
+import photo4 from "../images/texture.jpeg";
+import photo8 from "../images/photo8.jpeg";
+import logoSecondaire20 from "../images/logoSecondaire20.png";
+import marque16 from "../images/marque16.png";
+import marque34 from "../images/marque34.png";
 
-	const logoSecondaire20 =
-		"https://drive.google.com/uc?export=view&id=1iEnmglu-kCYTb_Dz9S-5Y7Mi4waL1Xmy";
-	const marque16 =
-		"https://drive.google.com/uc?export=view&id=1jxQBFxVfYzARnCFcnliYXlf9_PxBEi-e";
-	const marque34 =
-		"https://drive.google.com/uc?export=view&id=1IbyS3l1HTLw4gKX58Rr17KHz9fy8Hvvr";
+const Formations = () => {
+	// const photo2 =
+	// 	"https://drive.google.com/uc?export=view&id=1bqBAsSPyobkPNTAy3pif8156eb7cTbsm";
+	// const photo3 =
+	// 	"https://drive.google.com/uc?export=view&id=1lTfWd1FW5u8nacg65ABm8U4qMNf52ko2";
+	// const photo4 =
+	// 	"https://drive.google.com/uc?export=view&id=1iLMaElPJzY85icUkLKYiaqNB80DwfN0B";
+	// const photo8 =
+	// 	"https://drive.google.com/uc?export=view&id=1-HfAupB7rC3py0mrsMUtt0ZYchdQWz0c";
+
+	// const logoSecondaire20 =
+	// 	"https://drive.google.com/uc?export=view&id=1iEnmglu-kCYTb_Dz9S-5Y7Mi4waL1Xmy";
+	// const marque16 =
+	// 	"https://drive.google.com/uc?export=view&id=1jxQBFxVfYzARnCFcnliYXlf9_PxBEi-e";
+	// const marque34 =
+	// 	"https://drive.google.com/uc?export=view&id=1IbyS3l1HTLw4gKX58Rr17KHz9fy8Hvvr";
 
 	const ref = useRef(null);
 	const handleClick = () => {

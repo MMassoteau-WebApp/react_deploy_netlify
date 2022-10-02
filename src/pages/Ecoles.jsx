@@ -6,15 +6,21 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
+//import images
+import cours from "../images/cours.jpeg";
+import photo2 from "../images/photo2.jpeg";
+import photo3 from "../images/photo3.jpeg";
+import photo4 from "../images/photo4.jpeg";
+
 const Ecoles = () => {
-	const cours =
-		"https://drive.google.com/uc?export=view&id=1YmY4Bd3R3_w-veBByjebTk0hR8vf0UE2";
-	const photo2 =
-		"https://drive.google.com/uc?export=view&id=1dPi9tj9YXHuSVi4TPwaCccK81R8xAXRx";
-	const photo3 =
-		"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
-	const photo4 =
-		"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
+	// const cours =
+	// 	"https://drive.google.com/uc?export=view&id=1YmY4Bd3R3_w-veBByjebTk0hR8vf0UE2";
+	// const photo2 =
+	// 	"https://drive.google.com/uc?export=view&id=1dPi9tj9YXHuSVi4TPwaCccK81R8xAXRx";
+	// const photo3 =
+	// 	"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
+	// const photo4 =
+	// 	"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
 
 	const ref = useRef(null);
 

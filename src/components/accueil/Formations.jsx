@@ -7,22 +7,30 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../../variants";
 
-const Formations = () => {
-	const texture =
-		"https://drive.google.com/uc?export=view&id=1WYVm2zlj5fSXEo_C_QYtl3eeQmH9pujG";
+import texture from "../../images/texture.jpeg";
+import icone3 from "../../images/icone3.png";
+import icone13 from "../../images/icone13.png";
+import icone16 from "../../images/icone16.png";
+import icone17 from "../../images/icone17.png";
+import marque6 from "../../images/marque6.png";
+import marque34 from "../../images/marque34.png";
 
-	const icone3 =
-		"https://drive.google.com/uc?export=view&id=1U61_FxTeVpYm45KX19s50DcSKKl6fZSl";
-	const icone13 =
-		"https://drive.google.com/uc?export=view&id=1dskUReesXzOs9_qcgjKDdZZSlu2ddNgi";
-	const icone16 =
-		"https://drive.google.com/uc?export=view&id=1gtjm_Ls-v5NfMNGz0ckrrln_zQeDAoWC";
-	const icone17 =
-		"https://drive.google.com/uc?export=view&id=1X2p9OxOAFo7VTrBqw8gcYAqy5OlVfDk6";
-	const marque6 =
-		"https://drive.google.com/uc?export=view&id=1-xGToix2s-GHJol4i3BRd9NYgVA9NM1b";
-	const marque34 =
-		"https://drive.google.com/uc?export=view&id=1IbyS3l1HTLw4gKX58Rr17KHz9fy8Hvvr";
+const Formations = () => {
+	// const texture =
+	// 	"https://drive.google.com/uc?export=view&id=1WYVm2zlj5fSXEo_C_QYtl3eeQmH9pujG";
+
+	// const icone3 =
+	// 	"https://drive.google.com/uc?export=view&id=1U61_FxTeVpYm45KX19s50DcSKKl6fZSl";
+	// const icone13 =
+	// 	"https://drive.google.com/uc?export=view&id=1dskUReesXzOs9_qcgjKDdZZSlu2ddNgi";
+	// const icone16 =
+	// 	"https://drive.google.com/uc?export=view&id=1gtjm_Ls-v5NfMNGz0ckrrln_zQeDAoWC";
+	// const icone17 =
+	// 	"https://drive.google.com/uc?export=view&id=1X2p9OxOAFo7VTrBqw8gcYAqy5OlVfDk6";
+	// const marque6 =
+	// 	"https://drive.google.com/uc?export=view&id=1-xGToix2s-GHJol4i3BRd9NYgVA9NM1b";
+	// const marque34 =
+	// 	"https://drive.google.com/uc?export=view&id=1IbyS3l1HTLw4gKX58Rr17KHz9fy8Hvvr";
 
 	return (
 		<>

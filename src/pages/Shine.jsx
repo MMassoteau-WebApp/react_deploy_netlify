@@ -6,19 +6,26 @@ import { motion } from "framer-motion";
 // import variants
 import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
+import makeuptonbusiness from "../images/makeuptonbusiness.jpeg";
+import photo7 from "../images/photo7.jpeg";
+import lisa33 from "../images/lisa33.jpeg";
+import icone13 from "../images/icone13.png";
+import icone11 from "../images/icone11.png";
+import icone18 from "../images/icone18.png";
+
 const Shine = () => {
-	const makeuptonbusiness =
-		"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
-	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1sgqF43Md3M-nbAc8UbIQJL0O-diSUS92";
-	const lisa33 =
-		"https://drive.google.com/uc?export=view&id=1547TCtL3AHa9Nt3baQYDzxzIOXeRTHqv";
-	const icone13 =
-		"https://drive.google.com/uc?export=view&id=1dskUReesXzOs9_qcgjKDdZZSlu2ddNgi";
-	const icone11 =
-		"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
-	const icone18 =
-		"https://drive.google.com/uc?export=view&id=1EEFLdUORNXenAoRdaZQhaVOxtiWdqhj3";
+	// const makeuptonbusiness =
+	// 	"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
+	// const photo7 =
+	// 	"https://drive.google.com/uc?export=view&id=1sgqF43Md3M-nbAc8UbIQJL0O-diSUS92";
+	// const lisa33 =
+	// 	"https://drive.google.com/uc?export=view&id=1547TCtL3AHa9Nt3baQYDzxzIOXeRTHqv";
+	// const icone13 =
+	// 	"https://drive.google.com/uc?export=view&id=1dskUReesXzOs9_qcgjKDdZZSlu2ddNgi";
+	// const icone11 =
+	// 	"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
+	// const icone18 =
+	// 	"https://drive.google.com/uc?export=view&id=1EEFLdUORNXenAoRdaZQhaVOxtiWdqhj3";
 
 	const ref = useRef(null);
 
