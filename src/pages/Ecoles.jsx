@@ -8,13 +8,13 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Ecoles = () => {
 	const cours =
-		"https://drive.google.com/uc?export=view&id=1balnqSiHAJBFNhyQiyeG0WINKeZKXaUh";
+		"https://drive.google.com/uc?export=view&id=1YmY4Bd3R3_w-veBByjebTk0hR8vf0UE2";
 	const photo2 =
-		"https://drive.google.com/uc?export=view&id=13W9qF5TDpgudJBkX8F125AooHpD563tX";
+		"https://drive.google.com/uc?export=view&id=1dPi9tj9YXHuSVi4TPwaCccK81R8xAXRx";
 	const photo3 =
-		"https://drive.google.com/uc?export=view&id=1cJe1S3HyhrnxGHcFgu-ZoMiDuYkohDIJ";
+		"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
 	const photo4 =
-		"https://drive.google.com/uc?export=view&id=1QDg9LUZUmnyZwTZse0s7Uvtnfc7FDX75";
+		"https://drive.google.com/uc?export=view&id=1wtXAvZGfadfVn4BcJQ3L6AKZyfF1adxU";
 
 	const ref = useRef(null);
 
@@ -128,10 +128,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -147,10 +149,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -235,17 +239,19 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
 												d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
 											></path>
 										</svg>
-										Préparer les fondation de son activité
+										Préparer les fondations de son activité
 									</li>
 									<li className="mb-4 flex items-center">
 										<svg
@@ -253,10 +259,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -271,10 +279,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -338,8 +348,8 @@ const Ecoles = () => {
 								La formation destinée aux professeurs des écoles d'esthétiques.
 							</motion.p>
 							<motion.p variants={fadeInRight} className="text-gray-500">
-								Les tendances de maquillage évoluent chaque années, et les
-								techniques vont de paire. Afin de transmettre la pointe du
+								Les tendances de maquillage évoluent chaque année, et les
+								techniques vont de pair. Afin de transmettre la pointe du
 								maquillage à vos élèves, les professeurs ont besoin des mises à
 								jour des maquillages de saison afin d'optimiser leur programme.
 							</motion.p>
@@ -351,10 +361,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -369,10 +381,12 @@ const Ecoles = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"

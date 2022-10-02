@@ -13,7 +13,7 @@ import {
 
 const Makeuptonbusiness = () => {
 	const pexels2 =
-		"https://drive.google.com/uc?export=view&id=1balnqSiHAJBFNhyQiyeG0WINKeZKXaUh";
+		"https://drive.google.com/uc?export=view&id=1QJ_e0C6-y6lC3Qfu82GOZ4lhIqBIyfE6";
 	return (
 		<motion.div
 			className="container my-24 px-6 mx-auto"

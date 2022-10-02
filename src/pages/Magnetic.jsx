@@ -8,13 +8,13 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Magnetic = () => {
 	const magneticMakeUp =
-		"https://drive.google.com/uc?export=view&id=1sPg_Y3yY1tiFzL3Mj65VIP1wOnSMtwsi";
+		"https://drive.google.com/uc?export=view&id=1b9FmOkDJjXWRXIgNHZYQKCF5HSsHA4QM";
 	const model32 =
-		"https://drive.google.com/uc?export=view&id=1VkvNKLjLRL_YX7-iZlqPI3BqoaO5sX5f";
+		"https://drive.google.com/uc?export=view&id=1DQStPvqneM7n-ZDQG21kIJleb1hxfL-u";
 	const lisa4 =
-		"https://drive.google.com/uc?export=view&id=1yOpHKzgn52YsqZ0JIX38KBhChn-1d82W";
+		"https://drive.google.com/uc?export=view&id=17oqc6Zy5c-giirDNv93ydakc_rWrEPN4";
 	const lisa10 =
-		"https://drive.google.com/uc?export=view&id=1Oc5yOV9Ka8Bt04izKK2lVo_H3kTuqqQf";
+		"https://drive.google.com/uc?export=view&id=1fm5H-gT7Uc7JeJAitBRKdYjQGYzWOYuz";
 
 	const ref = useRef(null);
 
@@ -136,10 +136,12 @@ const Magnetic = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -154,10 +156,12 @@ const Magnetic = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -173,10 +177,12 @@ const Magnetic = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"

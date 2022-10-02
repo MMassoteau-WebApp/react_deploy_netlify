@@ -9,7 +9,7 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../../variants";
 
 const Formations = () => {
 	const texture =
-		"https://drive.google.com/uc?export=view&id=1BsHMoCAMrP83ZavsD0mFUQF46yEZDycn";
+		"https://drive.google.com/uc?export=view&id=1WYVm2zlj5fSXEo_C_QYtl3eeQmH9pujG";
 
 	const icone3 =
 		"https://drive.google.com/uc?export=view&id=1U61_FxTeVpYm45KX19s50DcSKKl6fZSl";

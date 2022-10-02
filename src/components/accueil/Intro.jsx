@@ -13,11 +13,11 @@ import {
 
 const Intro = () => {
 	const hero1 =
-		"https://drive.google.com/uc?export=view&id=1N7-Otd16xGD70QrNmeaQ5GI6MrskLCBc";
+		"https://drive.google.com/uc?export=view&id=1DNpSiy2vgCB_qs-c0Q9i0XCvnlo0IXRT";
 	const logo1 =
 		"https://drive.google.com/uc?export=view&id=1Ot8m-bHPLeqRiqgTddn24NVB_i9WskZX";
 	const lisa =
-		"https://drive.google.com/uc?export=view&id=1V2WmjzsJatr7c8G0iH0_bzslusqKOX6F";
+		"https://drive.google.com/uc?export=view&id=11VYfRMaDzKDDQjMyoq2oHNjCsN7e8ycm";
 	const marque44 =
 		"https://drive.google.com/uc?export=view&id=1_8Ikyfv7-QDtmgSI5PscLnmQLJH9A6bg";
 

@@ -9,13 +9,13 @@ import { Link } from "react-router-dom";
 
 const Formations = () => {
 	const photo2 =
-		"https://drive.google.com/uc?export=view&id=13W9qF5TDpgudJBkX8F125AooHpD563tX";
+		"https://drive.google.com/uc?export=view&id=1bqBAsSPyobkPNTAy3pif8156eb7cTbsm";
 	const photo3 =
-		"https://drive.google.com/uc?export=view&id=1cJe1S3HyhrnxGHcFgu-ZoMiDuYkohDIJ";
+		"https://drive.google.com/uc?export=view&id=1lTfWd1FW5u8nacg65ABm8U4qMNf52ko2";
 	const photo4 =
-		"https://drive.google.com/uc?export=view&id=1QDg9LUZUmnyZwTZse0s7Uvtnfc7FDX75";
+		"https://drive.google.com/uc?export=view&id=1iLMaElPJzY85icUkLKYiaqNB80DwfN0B";
 	const photo8 =
-		"https://drive.google.com/uc?export=view&id=1JnIbivo4Bvo4P1BQo0KIazLq1Vvy2-rN";
+		"https://drive.google.com/uc?export=view&id=1-HfAupB7rC3py0mrsMUtt0ZYchdQWz0c";
 
 	const logoSecondaire20 =
 		"https://drive.google.com/uc?export=view&id=1iEnmglu-kCYTb_Dz9S-5Y7Mi4waL1Xmy";
@@ -46,7 +46,7 @@ const Formations = () => {
 						<div className="flex justify-center items-center h-full">
 							<div className="text-center text-white px-6 md:px-12">
 								<h1 className="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">
-									Une formations
+									Une formation
 									<br />
 									pour tous
 								</h1>
@@ -117,7 +117,7 @@ const Formations = () => {
 									3 étapes pour apprendre à sublimer les femmes avec éthique.
 								</motion.p>
 								<motion.p variants={fadeInRight} className="text-gray-500">
-									La formation pour les passionné(e)s de maquillage et sensible
+									La formation pour les passionné(e)s de maquillage et sensibles
 									à une beauté plus saine, qui souhaitent connaitre toutes les
 									secrets de make up artist !
 								</motion.p>
@@ -133,10 +133,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -151,17 +153,19 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
 													d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
 												></path>
 											</svg>
-											Réparti sur 3 jours
+											Répartie sur 3 jours
 										</li>
 										<li className="mb-4 flex items-center">
 											<svg
@@ -169,10 +173,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -274,10 +280,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -292,10 +300,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -310,10 +320,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -413,10 +425,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"
@@ -431,10 +445,12 @@ const Formations = () => {
 												focusable="false"
 												data-prefix="fas"
 												data-icon="check"
-												className="text-green-600 w-4 h-4 mr-2"
+												className="text-green-600 mr-2"
 												role="img"
 												xmlns="http://www.w3.org/2000/svg"
 												viewBox="0 0 512 512"
+												width="16px"
+												height="16px"
 											>
 												<path
 													fill="currentColor"

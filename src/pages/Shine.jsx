@@ -8,11 +8,11 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Shine = () => {
 	const makeuptonbusiness =
-		"https://drive.google.com/uc?export=view&id=1AKQzVKzGrJb-gj3AiOp04uvzzQ2tbqVC";
+		"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
 	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1k__NgiHmCNSRJVvjTPS5unSAj6c4zBhc";
+		"https://drive.google.com/uc?export=view&id=1sgqF43Md3M-nbAc8UbIQJL0O-diSUS92";
 	const lisa33 =
-		"https://drive.google.com/uc?export=view&id=1yBrkzoYkRQJVrzOrGjPBQx3P8hwfTbvv";
+		"https://drive.google.com/uc?export=view&id=1547TCtL3AHa9Nt3baQYDzxzIOXeRTHqv";
 	const icone13 =
 		"https://drive.google.com/uc?export=view&id=1dskUReesXzOs9_qcgjKDdZZSlu2ddNgi";
 	const icone11 =
@@ -133,10 +133,12 @@ const Shine = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -151,10 +153,12 @@ const Shine = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -426,7 +430,7 @@ const Shine = () => {
 										connaisses ce qui te convient le mieux, et que tu apprennes
 										avec ce que tu as déjà, des produits avec lesquels tu es
 										familière. Bien entendu, tu auras accès à tout mon
-										maquillages.
+										maquillage.
 									</p>
 									<button
 										type="button"
@@ -499,7 +503,7 @@ const Shine = () => {
 									<p className="text-gray-700 mb-6">
 										Découvre la démonstration sur la moitié de ton visage, et
 										pratique sur l'autre moitié pour prendre en main chaque
-										techniques.
+										technique.
 									</p>
 									<button
 										type="button"
@@ -649,7 +653,7 @@ const Shine = () => {
 									className="grow ml-4"
 								>
 									<motion.p variants={fadeInLeft} className="text-gray-500">
-										retrouve toutes les étapes de ton cours personnalisé
+										Retrouve toutes les étapes de ton cours personnalisé
 									</motion.p>
 								</motion.div>
 							</div>

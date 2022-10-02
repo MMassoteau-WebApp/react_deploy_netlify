@@ -7,17 +7,17 @@ import { fadeInRight, staggerTextContainer } from "../../variants";
 
 const Instagram = () => {
 	const lisa33 =
-		"https://drive.google.com/uc?export=view&id=1yBrkzoYkRQJVrzOrGjPBQx3P8hwfTbvv";
+		"https://drive.google.com/uc?export=view&id=1AQwxUVGMVppftYZa-xx_FiZRHFNgrFFp";
 	const model41 =
-		"https://drive.google.com/uc?export=view&id=1WX7lRojtphFFsTcq-BsTnGvKUf7hLHK2";
+		"https://drive.google.com/uc?export=view&id=1ew_5PTVlcuT61tfwct3F39l2h3--jRcn";
 	const produit23 =
-		"https://drive.google.com/uc?export=view&id=1mG4F2fhlkXpfPj6xe93boIU_58YMnNwP";
+		"https://drive.google.com/uc?export=view&id=1rK99ukFTYLLBjKTxWSTPhGq9gcmmCDoO";
 	const lisa29 =
-		"https://drive.google.com/uc?export=view&id=1b2roTSQsxvHQOLEhtfs21-rHTT4tn2zU";
+		"https://drive.google.com/uc?export=view&id=1MCKjxDXVwreGyoOvNcLVLw3CEUlCtSc-";
 	const lisa19 =
-		"https://drive.google.com/uc?export=view&id=15o6nnGgiGqpbyrUsXSFIFTtfBHWphhGl";
+		"https://drive.google.com/uc?export=view&id=1eTZ3KOP_96FskQlOKcIqdG_WfOIzuq7x";
 	const model51 =
-		"https://drive.google.com/uc?export=view&id=16NrNRFnSqSim8SiVu7rv8QWZz7Oi5erf";
+		"https://drive.google.com/uc?export=view&id=1nP1sPS2L_jT98jT6v7lcuVYIS9KTcQ3z";
 
 	return (
 		<motion.div

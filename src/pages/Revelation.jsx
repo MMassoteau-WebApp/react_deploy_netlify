@@ -8,13 +8,13 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Revelation = () => {
 	const revelationHero =
-		"https://drive.google.com/uc?export=view&id=1F0JW5tBZuSB_RJGr1z9gtE8AaUlh8jPL";
+		"https://drive.google.com/uc?export=view&id=1p54aqzSBzCr1A768vlOBm5oa9ti3ASkl";
 	const model28 =
-		"https://drive.google.com/uc?export=view&id=1vkbxV9IU3Pndtd28hVDPgGlQcHt7kuxG";
+		"https://drive.google.com/uc?export=view&id=1meEWjSUDH62w8ZSvVurT6fs_FF_vh8tQ";
 	const model31 =
-		"https://drive.google.com/uc?export=view&id=10gdmmHAYVgAoPqy4OHXWMHpXokycuBXs";
+		"https://drive.google.com/uc?export=view&id=19Es1SENwuoa4iq4ltFmWdqht-RAedkQk";
 	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1k__NgiHmCNSRJVvjTPS5unSAj6c4zBhc";
+		"https://drive.google.com/uc?export=view&id=1eRvKu_L2xHXszH_5zy0I391JDkq59FEr";
 	const icone11 =
 		"https://drive.google.com/uc?export=view&id=1Fz2Ze7LUdfMbSJU4g4CgFbz97iwJdh6Y";
 	const icone7 =
@@ -140,10 +140,12 @@ const Revelation = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -158,10 +160,12 @@ const Revelation = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"

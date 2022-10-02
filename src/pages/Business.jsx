@@ -8,13 +8,13 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Business = () => {
 	const makeuptonbusiness =
-		"https://drive.google.com/uc?export=view&id=1AKQzVKzGrJb-gj3AiOp04uvzzQ2tbqVC";
+		"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
 	const makeuptonbusiness2 =
-		"https://drive.google.com/uc?export=view&id=1r6gqiPXDFLtLiIMZXPcfTbYoTiJF8OVc";
+		"https://drive.google.com/uc?export=view&id=1phDV48Y8un8CbJuTvWbd4wpQ0aLUyWUo";
 	const photo3 =
-		"https://drive.google.com/uc?export=view&id=1cJe1S3HyhrnxGHcFgu-ZoMiDuYkohDIJ";
+		"https://drive.google.com/uc?export=view&id=1XmUcTznELjAsyNZkQAJ8vvtJOf-jqh_i";
 	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1k__NgiHmCNSRJVvjTPS5unSAj6c4zBhc";
+		"https://drive.google.com/uc?export=view&id=1eG6AygCPIahRym7SbmSiIFa-mykrGoF1";
 	const icone2 =
 		"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
 	const icone7 =
@@ -136,10 +136,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -154,10 +156,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -172,10 +176,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -255,10 +261,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -273,10 +281,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -291,10 +301,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -309,10 +321,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -327,10 +341,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -345,10 +361,12 @@ const Business = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
@@ -669,7 +687,7 @@ const Business = () => {
 												variants={fadeInRight}
 												className="text-gray-500"
 											>
-												Vendre tes services ou produits chaque jours
+												Vendre tes services ou produits chaque jour
 											</motion.p>
 										</motion.div>
 									</motion.div>
@@ -709,7 +727,7 @@ const Business = () => {
 												variants={fadeInRight}
 												className="text-gray-500"
 											>
-												Attirer des nouveaux prospects chaque jour.
+												Attirer des nouveaux prospects chaque jour
 											</motion.p>
 										</motion.div>
 									</motion.div>
@@ -790,7 +808,7 @@ const Business = () => {
 												variants={fadeInRight}
 												className="text-gray-500"
 											>
-												Être épanouie dans ton activité.
+												Être épanouie dans ton activité
 											</motion.p>
 										</motion.div>
 									</motion.div>
@@ -830,7 +848,7 @@ const Business = () => {
 												variants={fadeInRight}
 												className="text-gray-500"
 											>
-												Être organisée au quotidien et autonome dans ta gestion.
+												Être organisée au quotidien et autonome dans ta gestion
 											</motion.p>
 										</motion.div>
 									</motion.div>
@@ -897,7 +915,7 @@ const Business = () => {
 								<motion.div variants={fadeInRight} className="grow ml-4">
 									<p className="text-gray-500">
 										Un accès à ta formation en ligne à ton rythme. Accès complet
-										à la platerforme dès le départ.
+										à la plateforme dès le départ.
 									</p>
 								</motion.div>
 							</motion.div>
@@ -923,7 +941,7 @@ const Business = () => {
 								</motion.div>
 								<motion.div variants={fadeInRight} className="grow ml-4">
 									<p className="text-gray-500">
-										Tes workbook d'exercice afin de progresser et passer à
+										Tes workbooks d'exercices afin de progresser et passer à
 										l'action pour un résultat immédiat.
 									</p>
 								</motion.div>

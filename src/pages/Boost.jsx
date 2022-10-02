@@ -8,15 +8,15 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 const Boost = () => {
 	const makeuptonbusiness =
-		"https://drive.google.com/uc?export=view&id=1AKQzVKzGrJb-gj3AiOp04uvzzQ2tbqVC";
+		"https://drive.google.com/uc?export=view&id=1BuS7D-0SrMJKkSyKflrJtMOlnmFmCizg";
 	const model48 =
-		"https://drive.google.com/uc?export=view&id=1sPg_Y3yY1tiFzL3Mj65VIP1wOnSMtwsi";
+		"https://drive.google.com/uc?export=view&id=1za_0foy2lV1l0YMWsBBSpzeqA_ifBZPN";
 	const lisa6 =
-		"https://drive.google.com/uc?export=view&id=17BCF7PHq4w5QC5G7yoIj_wihdlCEsT1a";
+		"https://drive.google.com/uc?export=view&id=1Tss-J42yS83DHFS9KXAQJdBW-cbU5Aor";
 	const choixmultiple =
 		"https://drive.google.com/uc?export=view&id=134i1_ShMYjlOXxEy4pF2TNamIPUQPR_D";
 	const photo7 =
-		"https://drive.google.com/uc?export=view&id=1k__NgiHmCNSRJVvjTPS5unSAj6c4zBhc";
+		"https://drive.google.com/uc?export=view&id=123wk-ctXoVesByuzdGL1sIoenFm7OtUY";
 	const icone2 =
 		"https://drive.google.com/uc?export=view&id=1YczfB7pb18j2nuOCV5OkUBuqjpH80_90";
 	const icone7 =
@@ -50,8 +50,7 @@ const Boost = () => {
 									Make Up Boost
 								</h1>
 								<p className="text-center text-xl text-white tracking-wider px-6 md:px-12 pb-12">
-									2 mois pour transformer ta passion en une activité rentable et
-									responsable
+									Deviens l'experte d'une technique de maquillage en 1 journée
 								</p>
 								<div
 									className="inline-block px-7 py-3 mr-1.5 border-2 border-white text-white font-medium text-sm leading-snug uppercase rounded-full shadow-md hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
@@ -135,10 +134,12 @@ const Boost = () => {
 											focusable="false"
 											data-prefix="fas"
 											data-icon="check"
-											className="text-green-600 w-4 h-4 mr-2"
+											className="text-green-600 mr-2"
 											role="img"
 											xmlns="http://www.w3.org/2000/svg"
 											viewBox="0 0 512 512"
+											width="16px"
+											height="16px"
 										>
 											<path
 												fill="currentColor"
