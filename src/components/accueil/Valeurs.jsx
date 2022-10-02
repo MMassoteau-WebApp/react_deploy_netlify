@@ -39,9 +39,7 @@ const Valeurs = () => {
 						</motion.div>
 						<motion.div variants={fadeInLeft} className="">
 							<h2 className="uppercase font-marisa text-4xl">ienveillance</h2>
-							<p className="text-sm">
-								La clef de la confiance et de l'harmonie
-							</p>
+							<p className="text-sm">La clé de la confiance et de l'harmonie</p>
 						</motion.div>
 					</div>
 

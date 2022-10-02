@@ -53,6 +53,9 @@ const Business = () => {
 									2 mois pour transformer ta passion en une activité rentable et
 									responsable
 								</p>
+								<u className="text-center text-xl text-white tracking-wider px-6 md:px-12 pb-12">
+									Bientôt disponible !
+								</u>
 								<div
 									className="inline-block px-7 py-3 mr-1.5 border-2 border-white text-white font-medium text-sm leading-snug uppercase rounded-full shadow-md hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
 									data-mdb-ripple="true"
@@ -188,7 +191,7 @@ const Business = () => {
 												d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"
 											></path>
 										</svg>
-										Péréniser
+										Pérenniser
 									</li>
 								</ol>
 							</motion.ul>
