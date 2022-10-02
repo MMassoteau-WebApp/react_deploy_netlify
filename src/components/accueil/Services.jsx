@@ -44,7 +44,7 @@ const Services = () => {
 								</div>
 								<div className="p-12 border-b border-gray-300 text-center">
 									<p className="uppercase mb-4 text-3xl font-marisa font-medium">
-										<strong>Coaching</strong>
+										<strong>Formations</strong>
 									</p>
 									{/* <h3 className="text-2xl mb-6">
 									<strong>299 EUR</strong>
@@ -52,10 +52,9 @@ const Services = () => {
 								</h3> */}
 									<Link to="/formations">
 										<div
-											type="button"
 											className="inline-block px-6 py-2.5 bg-vieuxrose text-white font-medium text-xs leading-tight uppercase rounded  hover:transition ease-in-out delay-150 hover:scale-110 hover:shadow-lg"
 											data-mdb-ripple="true"
-											data-ripple-color="light"
+											data-ripple-color="primary"
 										>
 											En savoir plus
 										</div>
@@ -177,10 +176,9 @@ const Services = () => {
 								</h3> */}
 									<Link to="/formations">
 										<div
-											type="button"
 											className="inline-block px-6 py-2.5 bg-moutarde text-white font-medium text-xs leading-tight uppercase rounded  hover:transition ease-in-out delay-150 hover:scale-110 hover:shadow-lg"
 											data-mdb-ripple="true"
-											data-ripple-color="light"
+											data-ripple-color="primary"
 										>
 											En savoir plus
 										</div>
@@ -397,25 +395,6 @@ const Services = () => {
 						</motion.div>
 					</div>
 				</section>
-				{/* <div className="absolute top-0 left-0 transform sm:translate-y-24 md:translate-y-24 lg:-translate-y-44  translate-x-12 z-40">
-					<img
-						className="relative  rotate-6 lg:h-[200px] lg:w-[240px] sm:hidden"
-						src={forme5}
-						alt="form5"
-					/>
-					<img
-						className="absolute  -rotate-12 lg:h-[200px] lg:w-[240px] sm:hidden top-0 left-0 transform translate-y-12 translate-x-7"
-						src={forme9}
-						alt="forme9"
-					/>
-				</div>
-				<div className="absolute top-0 right-0 transform sm:translate-y-24 md:translate-y-24 lg:-translate-y-44  translate-x-12 z-40">
-					<img
-						className="relative  rotate-6 lg:h-[200px] lg:w-[240px] sm:hidden"
-						src={forme18}
-						alt="form18"
-					/>
-				</div> */}
 			</div>
 		</>
 	);
