@@ -80,7 +80,7 @@ const Makeuptonbusiness = () => {
 									<Link to="/business">
 										<div
 											type="button"
-											className="inline-block px-6 py-2.5 justify-center bg-moutarde text-white font-medium text-xs leading-tight uppercase rounded  hover:transition ease-in-out delay-150 hover:scale-110 hover:shadow-lg"
+											className="inline-block px-6 py-2.5 bg-moutarde text-white font-medium text-xs leading-tight uppercase rounded  hover:transition ease-in-out delay-150 hover:scale-110 hover:shadow-lg"
 											data-mdb-ripple="true"
 											data-ripple-color="primary"
 										>
