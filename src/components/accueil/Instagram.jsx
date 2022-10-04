@@ -7,7 +7,7 @@ import { fadeInRight, staggerTextContainer } from "../../variants";
 
 //import images
 import lisa33 from "../../images/lisa33.jpeg";
-import model41 from "../../images/model41.jpeg";
+import photo3 from "../../images/photo3.jpeg";
 import produit23 from "../../images/produit23.jpeg";
 import lisa29 from "../../images/lisa29.jpeg";
 import lisa19 from "../../images/lisa19.jpeg";
@@ -92,7 +92,7 @@ const Instagram = () => {
 							data-mdb-ripple-color="dark"
 						>
 							<img
-								src={model41}
+								src={photo3}
 								className="w-full transition duration-300 ease-linear h-[270px] object-cover align-middle"
 								alt="Lisa Gonzalvo"
 							/>

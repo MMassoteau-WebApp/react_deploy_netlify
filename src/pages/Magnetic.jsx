@@ -8,7 +8,7 @@ import { fadeInRight, fadeInLeft, staggerTextContainer } from "../variants";
 
 import magneticMakeUp from "../images/magneticMakeUp.jpeg";
 import model32 from "../images/model32.jpeg";
-import lisa4 from "../images/lisa4.jpeg";
+import lisa33 from "../images/lisa33.jpeg";
 import lisa10 from "../images/lisa10.jpeg";
 
 const Magnetic = () => {
@@ -64,7 +64,6 @@ const Magnetic = () => {
 										className="inline-block px-7 py-3 border-2 border-transparent bg-transparent text-white font-medium text-sm leading-snug uppercase rounded-full focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
 										data-mdb-ripple-color="light"
-										href="#!"
 										role="button"
 									>
 										En savoir plus
@@ -581,6 +580,7 @@ const Magnetic = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -617,6 +617,7 @@ const Magnetic = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -654,6 +655,7 @@ const Magnetic = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -692,6 +694,7 @@ const Magnetic = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -733,6 +736,7 @@ const Magnetic = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -763,7 +767,7 @@ const Magnetic = () => {
 								data-mdb-ripple-color="light"
 							>
 								<img
-									src={lisa4}
+									src={lisa33}
 									className="w-full object-cover"
 									alt="Maquillage tendance et responsable"
 								/>

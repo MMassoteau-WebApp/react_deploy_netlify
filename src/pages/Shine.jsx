@@ -70,7 +70,6 @@ const Shine = () => {
 									className="inline-block px-7 py-3 border-2 border-transparent bg-transparent text-white font-medium text-sm leading-snug uppercase rounded-full focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
 									data-mdb-ripple="true"
 									data-mdb-ripple-color="light"
-									href="#!"
 									role="button"
 								>
 									En savoir plus
@@ -403,6 +402,7 @@ const Shine = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -443,6 +443,7 @@ const Shine = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -479,6 +480,7 @@ const Shine = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -516,6 +518,7 @@ const Shine = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
@@ -551,6 +554,7 @@ const Shine = () => {
 										type="button"
 										className="inline-block px-4 py-1.5 bg-brique text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-camel hover:shadow-lg focus:bg-camel focus:shadow-lg focus:outline-none focus:ring-0 active:bg-camel active:shadow-lg transition duration-150 ease-in-out"
 										data-mdb-ripple="true"
+										href="/contact"
 									>
 										En savoir plus
 									</button>
